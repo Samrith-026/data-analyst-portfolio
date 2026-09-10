@@ -1,0 +1,4 @@
+carrier,shipments,on_time_pct,otif_pct,avg_delay_days_all_shipments
+Carrier B,805,87.45,82.36,0.13
+Carrier A,795,82.64,78.87,0.17
+Carrier C,800,49.38,47.0,1.05

@@ -1,0 +1,87 @@
+[
+  [
+    {
+      "carrier": "Carrier B",
+      "shipments": 805,
+      "on_time_pct": 87.45,
+      "otif_pct": 82.36,
+      "avg_delay_days_all_shipments": 0.13
+    },
+    {
+      "carrier": "Carrier A",
+      "shipments": 795,
+      "on_time_pct": 82.64,
+      "otif_pct": 78.87,
+      "avg_delay_days_all_shipments": 0.17
+    },
+    {
+      "carrier": "Carrier C",
+      "shipments": 800,
+      "on_time_pct": 49.38,
+      "otif_pct": 47.0,
+      "avg_delay_days_all_shipments": 1.05
+    }
+  ],
+  [
+    {
+      "month": "2025-01",
+      "shipments": 218,
+      "otif_pct": 69.27
+    },
+    {
+      "month": "2025-02",
+      "shipments": 177,
+      "otif_pct": 67.8
+    },
+    {
+      "month": "2025-03",
+      "shipments": 227,
+      "otif_pct": 64.32
+    },
+    {
+      "month": "2025-04",
+      "shipments": 187,
+      "otif_pct": 70.05
+    },
+    {
+      "month": "2025-05",
+      "shipments": 199,
+      "otif_pct": 66.83
+    },
+    {
+      "month": "2025-06",
+      "shipments": 195,
+      "otif_pct": 69.23
+    },
+    {
+      "month": "2025-07",
+      "shipments": 200,
+      "otif_pct": 71.0
+    },
+    {
+      "month": "2025-08",
+      "shipments": 212,
+      "otif_pct": 69.34
+    },
+    {
+      "month": "2025-09",
+      "shipments": 204,
+      "otif_pct": 70.1
+    },
+    {
+      "month": "2025-10",
+      "shipments": 196,
+      "otif_pct": 78.57
+    },
+    {
+      "month": "2025-11",
+      "shipments": 198,
+      "otif_pct": 69.19
+    },
+    {
+      "month": "2025-12",
+      "shipments": 187,
+      "otif_pct": 67.91
+    }
+  ]
+]

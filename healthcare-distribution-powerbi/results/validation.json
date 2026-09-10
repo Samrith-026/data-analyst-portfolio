@@ -1,0 +1,11 @@
+{
+  "input_orders": 12000,
+  "date_rows": 731,
+  "tables": 6,
+  "relationships": 4,
+  "measures": 21,
+  "data_and_sql_checks": "PASS",
+  "power_bi_desktop_refresh": "NOT RUN - Desktop unavailable",
+  "dax_engine_execution": "NOT RUN - validate in Desktop",
+  "pbir_schema_validation": "PASS: 28 files against Microsoft schemas"
+}

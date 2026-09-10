@@ -1,0 +1,121 @@
+[
+  [
+    {
+      "month": "2025-01",
+      "orders": 218,
+      "net_revenue": 36833.5,
+      "contribution": 12337.2,
+      "average_order_value": 168.96
+    },
+    {
+      "month": "2025-02",
+      "orders": 177,
+      "net_revenue": 29383.25,
+      "contribution": 9808.25,
+      "average_order_value": 166.01
+    },
+    {
+      "month": "2025-03",
+      "orders": 227,
+      "net_revenue": 41226.5,
+      "contribution": 13998.4,
+      "average_order_value": 181.61
+    },
+    {
+      "month": "2025-04",
+      "orders": 187,
+      "net_revenue": 37642.75,
+      "contribution": 13044.95,
+      "average_order_value": 201.3
+    },
+    {
+      "month": "2025-05",
+      "orders": 199,
+      "net_revenue": 34954.25,
+      "contribution": 11934.05,
+      "average_order_value": 175.65
+    },
+    {
+      "month": "2025-06",
+      "orders": 195,
+      "net_revenue": 32485.75,
+      "contribution": 10712.55,
+      "average_order_value": 166.59
+    },
+    {
+      "month": "2025-07",
+      "orders": 200,
+      "net_revenue": 38280.25,
+      "contribution": 13444.65,
+      "average_order_value": 191.4
+    },
+    {
+      "month": "2025-08",
+      "orders": 212,
+      "net_revenue": 32975.75,
+      "contribution": 9798.95,
+      "average_order_value": 155.55
+    },
+    {
+      "month": "2025-09",
+      "orders": 204,
+      "net_revenue": 35398.5,
+      "contribution": 12157.9,
+      "average_order_value": 173.52
+    },
+    {
+      "month": "2025-10",
+      "orders": 196,
+      "net_revenue": 35027.75,
+      "contribution": 12343.95,
+      "average_order_value": 178.71
+    },
+    {
+      "month": "2025-11",
+      "orders": 198,
+      "net_revenue": 41614.75,
+      "contribution": 14351.85,
+      "average_order_value": 210.18
+    },
+    {
+      "month": "2025-12",
+      "orders": 187,
+      "net_revenue": 33953.75,
+      "contribution": 12081.95,
+      "average_order_value": 181.57
+    }
+  ],
+  [
+    {
+      "region": "East",
+      "orders": 638,
+      "net_revenue": 117543.0,
+      "contribution": 40942.4
+    },
+    {
+      "region": "West",
+      "orders": 614,
+      "net_revenue": 110420.75,
+      "contribution": 38115.05
+    },
+    {
+      "region": "North",
+      "orders": 606,
+      "net_revenue": 105509.0,
+      "contribution": 35642.2
+    },
+    {
+      "region": "South",
+      "orders": 542,
+      "net_revenue": 96304.0,
+      "contribution": 31315.0
+    }
+  ],
+  [
+    {
+      "customers": 496,
+      "repeat_customers": 480,
+      "repeat_customer_pct": 96.77
+    }
+  ]
+]

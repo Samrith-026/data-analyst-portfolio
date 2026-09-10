@@ -1,0 +1,179 @@
+[
+  [
+    {
+      "Orders": 12000,
+      "NetRevenue": 21013252.76,
+      "Contribution": 6212296.61,
+      "ServiceFailureCost": 204809.12,
+      "OTIF": 0.6911666666666667
+    }
+  ],
+  [
+    {
+      "Carrier": "Carrier C",
+      "Orders": 3969,
+      "OTIF": 0.5396825396825397,
+      "ServiceFailureCost": 108136.23
+    },
+    {
+      "Carrier": "Carrier B",
+      "Orders": 4007,
+      "OTIF": 0.7569253805839781,
+      "ServiceFailureCost": 49471.99
+    },
+    {
+      "Carrier": "Carrier A",
+      "Orders": 4024,
+      "OTIF": 0.7750994035785288,
+      "ServiceFailureCost": 47200.9
+    }
+  ],
+  [
+    {
+      "YearMonth": "2024-01",
+      "NetRevenue": 845589.16,
+      "Contribution": 239532.06
+    },
+    {
+      "YearMonth": "2024-02",
+      "NetRevenue": 779820.52,
+      "Contribution": 211768.0
+    },
+    {
+      "YearMonth": "2024-03",
+      "NetRevenue": 880181.68,
+      "Contribution": 253745.48
+    },
+    {
+      "YearMonth": "2024-04",
+      "NetRevenue": 883157.36,
+      "Contribution": 253086.45
+    },
+    {
+      "YearMonth": "2024-05",
+      "NetRevenue": 960106.84,
+      "Contribution": 281758.19
+    },
+    {
+      "YearMonth": "2024-06",
+      "NetRevenue": 831427.96,
+      "Contribution": 251196.01
+    },
+    {
+      "YearMonth": "2024-07",
+      "NetRevenue": 891617.32,
+      "Contribution": 271503.14
+    },
+    {
+      "YearMonth": "2024-08",
+      "NetRevenue": 881061.08,
+      "Contribution": 253053.24
+    },
+    {
+      "YearMonth": "2024-09",
+      "NetRevenue": 868473.52,
+      "Contribution": 231713.97
+    },
+    {
+      "YearMonth": "2024-10",
+      "NetRevenue": 862979.0,
+      "Contribution": 267717.99
+    },
+    {
+      "YearMonth": "2024-11",
+      "NetRevenue": 931274.56,
+      "Contribution": 284856.01
+    },
+    {
+      "YearMonth": "2024-12",
+      "NetRevenue": 904150.72,
+      "Contribution": 272629.36
+    },
+    {
+      "YearMonth": "2025-01",
+      "NetRevenue": 915155.24,
+      "Contribution": 271212.8
+    },
+    {
+      "YearMonth": "2025-02",
+      "NetRevenue": 909848.92,
+      "Contribution": 276223.59
+    },
+    {
+      "YearMonth": "2025-03",
+      "NetRevenue": 851514.36,
+      "Contribution": 247467.77
+    },
+    {
+      "YearMonth": "2025-04",
+      "NetRevenue": 900007.08,
+      "Contribution": 280032.29
+    },
+    {
+      "YearMonth": "2025-05",
+      "NetRevenue": 802123.32,
+      "Contribution": 238224.84
+    },
+    {
+      "YearMonth": "2025-06",
+      "NetRevenue": 941963.16,
+      "Contribution": 285933.05
+    },
+    {
+      "YearMonth": "2025-07",
+      "NetRevenue": 903299.76,
+      "Contribution": 267557.3
+    },
+    {
+      "YearMonth": "2025-08",
+      "NetRevenue": 929062.56,
+      "Contribution": 274779.43
+    },
+    {
+      "YearMonth": "2025-09",
+      "NetRevenue": 826607.8,
+      "Contribution": 236195.62
+    },
+    {
+      "YearMonth": "2025-10",
+      "NetRevenue": 844101.56,
+      "Contribution": 262207.62
+    },
+    {
+      "YearMonth": "2025-11",
+      "NetRevenue": 787829.76,
+      "Contribution": 228499.43
+    },
+    {
+      "YearMonth": "2025-12",
+      "NetRevenue": 881899.52,
+      "Contribution": 271402.97
+    }
+  ],
+  [
+    {
+      "Region": "South",
+      "Orders": 3071,
+      "NetRevenue": 5543643.08,
+      "ServiceFailureCost": 52650.12
+    },
+    {
+      "Region": "East",
+      "Orders": 2960,
+      "NetRevenue": 5104987.92,
+      "ServiceFailureCost": 52088.0
+    },
+    {
+      "Region": "North",
+      "Orders": 3053,
+      "NetRevenue": 5361245.44,
+      "ServiceFailureCost": 51788.83
+    },
+    {
+      "Region": "West",
+      "Orders": 2916,
+      "NetRevenue": 5003376.32,
+      "ServiceFailureCost": 48282.17
+    }
+  ]
+]

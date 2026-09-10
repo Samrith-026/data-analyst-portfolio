@@ -1,0 +1,62 @@
+// Volume
+Orders = COUNTROWS(FactOrders)
+
+// Financial
+Gross Sales = SUM(FactOrders[GrossSales])
+
+// Financial
+Discounts = SUM(FactOrders[Discount])
+
+// Financial
+Refunds = SUM(FactOrders[Refund])
+
+// Financial
+Net Revenue = [Gross Sales] - [Discounts] - [Refunds]
+
+// Financial
+Product Cost = SUM(FactOrders[COGS])
+
+// Financial
+Base Freight = SUM(FactOrders[Freight])
+
+// Financial
+Service Failure Cost = SUM(FactOrders[Penalty]) + SUM(FactOrders[Expedite])
+
+// Financial
+Contribution = [Net Revenue] - [Product Cost] - [Base Freight] - [Service Failure Cost]
+
+// Financial
+Contribution Margin = DIVIDE([Contribution], [Net Revenue])
+
+// Service
+On Time Rate = DIVIDE(SUM(FactOrders[OnTime]), [Orders])
+
+// Service
+OTIF Rate = DIVIDE(CALCULATE([Orders], KEEPFILTERS(FactOrders[OnTime] = 1), KEEPFILTERS(FactOrders[InFull] = 1)), [Orders])
+
+// Service
+Late Orders = CALCULATE([Orders], KEEPFILTERS(FactOrders[OnTime] = 0))
+
+// Service
+Average Late Days = CALCULATE(AVERAGE(FactOrders[DelayDays]), KEEPFILTERS(FactOrders[DelayDays] > 0))
+
+// Time intelligence
+Revenue PY = CALCULATE([Net Revenue], DATEADD(DimDate[Date], -1, YEAR))
+
+// Time intelligence
+Revenue YoY = DIVIDE([Net Revenue] - [Revenue PY], [Revenue PY])
+
+// Time intelligence
+Revenue YTD = TOTALYTD([Net Revenue], DimDate[Date])
+
+// Scenario
+Recovery Rate = SELECTEDVALUE(Recovery[Rate], 0.25)
+
+// Scenario
+Potential Recovery = [Service Failure Cost] * [Recovery Rate]
+
+// Scenario
+Scenario Contribution = [Contribution] + [Potential Recovery]
+
+// Scenario
+Scenario Margin = DIVIDE([Scenario Contribution], [Net Revenue])

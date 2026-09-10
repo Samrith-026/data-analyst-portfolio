@@ -1,0 +1,15 @@
+// Run in Power BI Desktop DAX Query View after Refresh.
+// Compare this output to results/query_1.csv.
+EVALUATE
+ROW("Orders", [Orders], "NetRevenue", [Net Revenue],
+    "Contribution", [Contribution], "ServiceFailureCost", [Service Failure Cost],
+    "OTIF", [OTIF Rate])
+
+// Run separately: scenario endpoints and annual prior-year comparison.
+// EVALUATE
+// SUMMARIZECOLUMNS(Recovery[Rate], "PotentialRecovery", [Potential Recovery],
+//     "ScenarioContribution", [Scenario Contribution])
+
+// EVALUATE
+// SUMMARIZECOLUMNS(DimDate[Year], "Revenue", [Net Revenue],
+//     "PY", [Revenue PY], "YoY", [Revenue YoY])
