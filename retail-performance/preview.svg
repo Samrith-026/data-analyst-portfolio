@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="520" viewBox="0 0 1080 520" role="img" aria-labelledby="title description">
+<title id="title">Retail Performance | Net Revenue by Month</title>
+<desc id="description">Monthly 2025 net revenue in USD thousands from the checked-in synthetic analysis results.</desc>
+<rect width="1080" height="520" rx="22" fill="#0c1726"/>
+<text x="54" y="62" fill="#f5f8fc" font-family="Arial,sans-serif" font-size="28" font-weight="700">Retail Performance | Net Revenue by Month</text>
+<text x="54" y="96" fill="#a7b5c7" font-family="Arial,sans-serif" font-size="15">2025 monthly results · reproducible synthetic data</text>
+<rect x="800" y="37" width="226" height="37" rx="18" fill="#153a42"/>
+<text x="913" y="61" text-anchor="middle" fill="#7ce7cf" font-family="Arial,sans-serif" font-size="13" font-weight="700">CASE STUDY PREVIEW</text>
+<line x1="96" y1="408.0" x2="1020" y2="408.0" stroke="#26384a" stroke-width="1"/>
+<text x="80" y="413.0" text-anchor="end" fill="#a7b5c7" font-family="Arial,sans-serif" font-size="13">$0k</text>
+<line x1="96" y1="339.0" x2="1020" y2="339.0" stroke="#26384a" stroke-width="1"/>
+<text x="80" y="344.0" text-anchor="end" fill="#a7b5c7" font-family="Arial,sans-serif" font-size="13">$12k</text>
+<line x1="96" y1="270.0" x2="1020" y2="270.0" stroke="#26384a" stroke-width="1"/>
+<text x="80" y="275.0" text-anchor="end" fill="#a7b5c7" font-family="Arial,sans-serif" font-size="13">$25k</text>
+<line x1="96" y1="201.0" x2="1020" y2="201.0" stroke="#26384a" stroke-width="1"/>
+<text x="80" y="206.0" text-anchor="end" fill="#a7b5c7" font-family="Arial,sans-serif" font-size="13">$38k</text>
+<line x1="96" y1="132.0" x2="1020" y2="132.0" stroke="#26384a" stroke-width="1"/>
+<text x="80" y="137.0" text-anchor="end" fill="#a7b5c7" font-family="Arial,sans-serif" font-size="13">$50k</text>
+<polyline points="96.0,204.7 180.0,245.8 264.0,180.4 348.0,200.2 432.0,215.1 516.0,228.7 600.0,196.7 684.0,226.0 768.0,212.6 852.0,214.6 936.0,178.3 1020.0,220.6" fill="none" stroke="#62dbc5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="96.0" cy="204.7" r="5.5" fill="#0c1726" stroke="#62dbc5" stroke-width="3"/>
+<text x="96.0" y="191.7" text-anchor="middle" fill="#e8f0f8" font-family="Arial,sans-serif" font-size="12">$37k</text>
+<circle cx="180.0" cy="245.8" r="5.5" fill="#0c1726" stroke="#62dbc5" stroke-width="3"/>
+<circle cx="264.0" cy="180.4" r="5.5" fill="#0c1726" stroke="#62dbc5" stroke-width="3"/>
+<circle cx="348.0" cy="200.2" r="5.5" fill="#0c1726" stroke="#62dbc5" stroke-width="3"/>
+<text x="348.0" y="187.2" text-anchor="middle" fill="#e8f0f8" font-family="Arial,sans-serif" font-size="12">$38k</text>
+<circle cx="432.0" cy="215.1" r="5.5" fill="#0c1726" stroke="#62dbc5" stroke-width="3"/>
+<circle cx="516.0" cy="228.7" r="5.5" fill="#0c1726" stroke="#62dbc5" stroke-width="3"/>
+<circle cx="600.0" cy="196.7" r="5.5" fill="#0c1726" stroke="#62dbc5" stroke-width="3"/>
+<text x="600.0" y="183.7" text-anchor="middle" fill="#e8f0f8" font-family="Arial,sans-serif" font-size="12">$38k</text>
+<circle cx="684.0" cy="226.0" r="5.5" fill="#0c1726" stroke="#62dbc5" stroke-width="3"/>
+<circle cx="768.0" cy="212.6" r="5.5" fill="#0c1726" stroke="#62dbc5" stroke-width="3"/>
+<circle cx="852.0" cy="214.6" r="5.5" fill="#0c1726" stroke="#62dbc5" stroke-width="3"/>
+<text x="852.0" y="201.6" text-anchor="middle" fill="#e8f0f8" font-family="Arial,sans-serif" font-size="12">$35k</text>
+<circle cx="936.0" cy="178.3" r="5.5" fill="#0c1726" stroke="#62dbc5" stroke-width="3"/>
+<circle cx="1020.0" cy="220.6" r="5.5" fill="#0c1726" stroke="#62dbc5" stroke-width="3"/>
+<text x="1020.0" y="207.6" text-anchor="middle" fill="#e8f0f8" font-family="Arial,sans-serif" font-size="12">$34k</text>
+<text x="96.0" y="439" text-anchor="middle" fill="#a7b5c7" font-family="Arial,sans-serif" font-size="12">Jan</text>
+<text x="180.0" y="439" text-anchor="middle" fill="#a7b5c7" font-family="Arial,sans-serif" font-size="12">Feb</text>
+<text x="264.0" y="439" text-anchor="middle" fill="#a7b5c7" font-family="Arial,sans-serif" font-size="12">Mar</text>
+<text x="348.0" y="439" text-anchor="middle" fill="#a7b5c7" font-family="Arial,sans-serif" font-size="12">Apr</text>
+<text x="432.0" y="439" text-anchor="middle" fill="#a7b5c7" font-family="Arial,sans-serif" font-size="12">May</text>
+<text x="516.0" y="439" text-anchor="middle" fill="#a7b5c7" font-family="Arial,sans-serif" font-size="12">Jun</text>
+<text x="600.0" y="439" text-anchor="middle" fill="#a7b5c7" font-family="Arial,sans-serif" font-size="12">Jul</text>
+<text x="684.0" y="439" text-anchor="middle" fill="#a7b5c7" font-family="Arial,sans-serif" font-size="12">Aug</text>
+<text x="768.0" y="439" text-anchor="middle" fill="#a7b5c7" font-family="Arial,sans-serif" font-size="12">Sep</text>
+<text x="852.0" y="439" text-anchor="middle" fill="#a7b5c7" font-family="Arial,sans-serif" font-size="12">Oct</text>
+<text x="936.0" y="439" text-anchor="middle" fill="#a7b5c7" font-family="Arial,sans-serif" font-size="12">Nov</text>
+<text x="1020.0" y="439" text-anchor="middle" fill="#a7b5c7" font-family="Arial,sans-serif" font-size="12">Dec</text>
+<line x1="54" y1="466" x2="1026" y2="466" stroke="#26384a"/>
+<text x="54" y="493" fill="#8193a8" font-family="Arial,sans-serif" font-size="12">Preview generated from the project’s exported query results; not a live service.</text>
+</svg>

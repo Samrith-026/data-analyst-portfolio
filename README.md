@@ -16,8 +16,16 @@ Three reproducible analytics case studies using Power BI, SQL and Python. All da
 
 | Project | Business question | Tools |
 |---|---|---|
-| [Retail performance](retail-performance/analysis.sql) | How do revenue and contribution vary by month and region? | SQL, Python, SQLite |
-| [Distribution SLA](distribution-sla/analysis.sql) | Which carriers have lower on-time and complete-delivery rates? | SQL, Python, SQLite |
+| [Retail performance](retail-performance/README.md) | How do revenue and contribution vary by month and region? | SQL, Python, SQLite |
+| [Distribution SLA](distribution-sla/README.md) | Which carriers have lower on-time and complete-delivery rates? | SQL, Python, SQLite |
+
+### Retail performance preview
+
+![Retail performance case study preview showing synthetic monthly net revenue](retail-performance/preview.svg)
+
+### Distribution SLA preview
+
+![Distribution SLA case study preview showing synthetic monthly on-time-in-full rates](distribution-sla/preview.svg)
 
 ## Run
 
@@ -26,6 +34,7 @@ Requires Python 3.10 or newer; no third-party packages needed.
 ```sh
 python analyze.py
 python healthcare-distribution-powerbi/build.py
+python scripts/build_previews.py
 ```
 
 Open `index.html` in a browser to view the summary dashboard. Review `FINDINGS.md` for conclusions and limitations. Each project contains source CSV data, executable SQL and exported query results. SQLite runs in memory; the seeded generator recreates all inputs.

@@ -4,6 +4,8 @@
 
 **Status:** Report and semantic-model source authored; data integrity and SQL reconciliations executed. Power BI Desktop is unavailable in the authoring environment, so Desktop open/refresh, DAX engine results and native visual rendering still require verification. The HTML companion is independently implemented and is not proof of Power BI execution.
 
+![Interactive browser companion preview, not a native Power BI screenshot](preview.png)
+
 ## Business decision
 
 A fictional healthcare distributor wants to identify where late deliveries reduce contribution and estimate the gross opportunity from avoiding a portion of service-failure costs. The analysis brings financial and operational KPIs together so a manager can prioritize investigation rather than merely view charts.
